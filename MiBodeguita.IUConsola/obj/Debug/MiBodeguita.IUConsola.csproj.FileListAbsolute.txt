@@ -1,0 +1,58 @@
+C:\Users\YADER\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.IUConsola.exe.config
+C:\Users\YADER\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.IUConsola.exe
+C:\Users\YADER\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.IUConsola.pdb
+C:\Users\YADER\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.BL.dll
+C:\Users\YADER\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Help.dll
+C:\Users\YADER\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Model.dll
+C:\Users\YADER\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.BL.pdb
+C:\Users\YADER\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Help.pdb
+C:\Users\YADER\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Model.pdb
+C:\Users\YADER\source\repos\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.csproj.AssemblyReference.cache
+C:\Users\YADER\source\repos\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\YADER\source\repos\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.csproj.CopyComplete
+C:\Users\YADER\source\repos\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.exe
+C:\Users\YADER\source\repos\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.pdb
+D:\TALLER VISUAL STUDIO\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.IUConsola.exe.config
+D:\TALLER VISUAL STUDIO\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.IUConsola.exe
+D:\TALLER VISUAL STUDIO\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.IUConsola.pdb
+D:\TALLER VISUAL STUDIO\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.BL.dll
+D:\TALLER VISUAL STUDIO\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Help.dll
+D:\TALLER VISUAL STUDIO\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Model.dll
+D:\TALLER VISUAL STUDIO\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.BL.pdb
+D:\TALLER VISUAL STUDIO\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Help.pdb
+D:\TALLER VISUAL STUDIO\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Model.pdb
+D:\TALLER VISUAL STUDIO\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.csproj.AssemblyReference.cache
+D:\TALLER VISUAL STUDIO\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.csproj.CoreCompileInputs.cache
+D:\TALLER VISUAL STUDIO\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.csproj.CopyComplete
+D:\TALLER VISUAL STUDIO\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.exe
+D:\TALLER VISUAL STUDIO\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.pdb
+C:\Users\Administrador\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.IUConsola.exe.config
+C:\Users\Administrador\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.IUConsola.exe
+C:\Users\Administrador\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.IUConsola.pdb
+C:\Users\Administrador\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.BL.dll
+C:\Users\Administrador\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Help.dll
+C:\Users\Administrador\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Model.dll
+C:\Users\Administrador\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.BL.pdb
+C:\Users\Administrador\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Help.pdb
+C:\Users\Administrador\source\repos\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Model.pdb
+C:\Users\Administrador\source\repos\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\source\repos\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.csproj.CopyComplete
+C:\Users\Administrador\source\repos\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.exe
+C:\Users\Administrador\source\repos\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.pdb
+C:\VisualStudioPracticas\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.IUConsola.exe.config
+C:\VisualStudioPracticas\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.IUConsola.exe
+C:\VisualStudioPracticas\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.IUConsola.pdb
+C:\VisualStudioPracticas\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.BL.dll
+C:\VisualStudioPracticas\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Help.dll
+C:\VisualStudioPracticas\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Model.dll
+C:\VisualStudioPracticas\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.BL.pdb
+C:\VisualStudioPracticas\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Help.pdb
+C:\VisualStudioPracticas\MiBodeguita\MiBodeguita.IUConsola\bin\Debug\MiBodeguita.Model.pdb
+C:\VisualStudioPracticas\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.csproj.AssemblyReference.cache
+C:\VisualStudioPracticas\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.csproj.SuggestedBindingRedirects.cache
+C:\VisualStudioPracticas\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.csproj.CoreCompileInputs.cache
+C:\VisualStudioPracticas\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.csproj.CopyComplete
+C:\VisualStudioPracticas\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.exe
+C:\VisualStudioPracticas\MiBodeguita\MiBodeguita.IUConsola\obj\Debug\MiBodeguita.IUConsola.pdb
